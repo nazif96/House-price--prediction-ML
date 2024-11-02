@@ -10,4 +10,4 @@ Nous avons à notre disposition le fichier `Housing.csv` qui contient des donné
 - preprocessing des données 
 - modélisation et r2_score
 
-Conception d'une application streamlit `Streamlit_immo.py` pour la présentation des données.
+Conception d'une application streamlit `Streamlit_immo.py` pour la présentation du projet.
